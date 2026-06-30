@@ -126,12 +126,9 @@ Built in MATLAB/Simulink with LapSim data as the driving input.
 
 ## Team
 
-| Name | Role |
-|---|---|
-| kk | HV Powertrain Co-Lead |
-| Tony Isshak | Team Member |
-| Max Sandy | Team Member |
-| Colin Janisse | Team Member |
+| Name          | Role |
+| Colin Janisse | HV Powertrain Co-Lead |
+
 
 **Supervisor:** University of Windsor ECE Department
 **Competition:** FSAE Michigan 2025–2026
